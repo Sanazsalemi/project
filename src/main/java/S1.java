@@ -1,7 +1,7 @@
-public class S1 {
 
 
-    public class Main {
+
+    public class S1 {
 
         public static void main(String[] args) {
 
@@ -13,14 +13,14 @@ public class S1 {
                     System.out.println("this is Number:Four");
                 } else if (myArray[i] == 7) {
                     System.out.println("this is Number:Seven");
-                } else if(myArray[i]==9){
+                } else if (myArray[i] == 9) {
                     System.out.println("this is Number:Nine");
-                }else {
+                } else {
                     System.out.println("null");
                 }
             }
         }
-
     }
+
 
 
